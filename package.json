@@ -1,0 +1,22 @@
+{
+  "name": "locateBuddy",
+  "version": "1.0.0",
+  "description": "An Vue.js / Express.js Full Stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanlaflamme/locateBuddy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanlaflamme/locateBuddy/issues"
+  },
+  "homepage": "https://github.com/jonathanlaflamme/locateBuddy#readme",
+  "devDependencies": {
+  }
+}
