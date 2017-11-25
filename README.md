@@ -1,2 +1,2 @@
 # locateBuddy
-An Vue.js / Express.js Full Stack application
+A FullStack Application with VueJS / NodeJS / MySQL (Squelize)
